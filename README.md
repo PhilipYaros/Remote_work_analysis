@@ -9,7 +9,7 @@ However, during the initial stages of the analysis, I discovered that the datase
 ## Dataset Information
 
 - **Name**: Impact_of_Remote_Work_on_Mental_Health
-- **Source**: [[Kaggle](https://www.kaggle.com/)](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
+- **Source**: [[Kaggle](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)]
 
 ## Initial Goals
 
